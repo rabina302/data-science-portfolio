@@ -17,6 +17,18 @@
 - **Tech Used:** TensorFlow, Keras, Flask, MQTT  
 - **Integration:** Deployed models in **C++ inference engine**  
 
+### 🏪 **Stock Management System** 
+- **Description:** A demo stock management system for handling inventory efficiently.  
+- **Tech Stack:** Laravel 5.5, JavaScript, Laravel Mix, Bootstrap, Webpack, Node.js  
+- **Features:**  
+  - Stock Adding & Management  
+  - PDF Generation  
+  - Supplier Management & Payment Module  
+  - Brand, Style, and Product Category Management  
+  - Payment Method Module  
+- 📂 [Project Repo](https://github.com/rabina302/Stash)
+
+
 ---
 
 ## 🛠️ Skills  
