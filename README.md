@@ -27,8 +27,6 @@
   - Brand, Style, and Product Category Management  
   - Payment Method Module  
 - 📂 [Project Repo](https://github.com/rabina302/Stash)
-
-
 ---
 
 ## 🛠️ Skills  
