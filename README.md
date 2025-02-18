@@ -10,7 +10,7 @@
 - **Goal:** Detect fake news using **LSTM, GRU, and BioBERT** models.  
 - **Tech Used:** Python, TensorFlow, MetaMap, SciSpacy  
 - **Dataset:** COVID-19 news articles  
-- 📂 [Project Repo](StarredPaperMaster)  
+- 📂 [Project Repo](https://github.com/rabina302/StarredPaperMaster)  
 
 ### 🏭 **Material Surface Inspection (AI for Manufacturing)**  
 - **Goal:** Detect material defects using **computer vision models**.  
